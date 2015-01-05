@@ -11,3 +11,8 @@ TODO
 ====
 
 	* Fix PathToPythonInterpreter
+
+Spec
+====
+
+	* currently support single source file (single process)
